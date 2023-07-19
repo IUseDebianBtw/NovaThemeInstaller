@@ -1,4 +1,5 @@
 #!/bin/bash
+cat << "EOF"
 
 echo"  _   _                    ____       _            _   _        _____ _                         "
 echo" | \ | | _____   ____ _   / ___| __ _| | __ _  ___| |_(_) ___  |_   _| |__   ___ _ __ ___   ___ "
@@ -6,6 +7,8 @@ echo" |  \| |/ _ \ \ / / _  | | |  _ / _  | |/ _  |/ __| __| |/ __|   | | | '_ \
 echo" | |\  | (_) \ V / (_| | | |_| | (_| | | (_| | (__| |_| | (__    | | | | | |  __/ | | | | |  __/"
 echo" |_| \_|\___/ \_/ \__,_|  \____|\__,_|_|\__,_|\___|\__|_|\___|   |_| |_| |_|\___|_| |_| |_|\___|"            
 echo"                                Installer by Bossman7309                                        "
+
+EOF
 
 # Define the URL of the theme's Git repository
 THEME_REPO="https://github.com/NicklasVraa/Nova-galactic-theme.git"

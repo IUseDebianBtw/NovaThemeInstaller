@@ -3,7 +3,15 @@
 ![NovaTheme](images/nova_ascii.png)
 
 
-Installer for the Nova Galactic theme
+Installer for the Nova Galactic theme 
+
+-------------------------------------------------
+credits
+
+Installer created by Bossman7309
+
+Theme and icons created by NicklasVraa
+
 -------------------------------------------------
 # How to use this?
 

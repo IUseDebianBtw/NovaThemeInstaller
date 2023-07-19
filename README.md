@@ -2,4 +2,4 @@
 
 Installer for the Nova Galactic theme
 
-``````$ sudo ./Themes.sh```
+```$ sudo ./Themes.sh```

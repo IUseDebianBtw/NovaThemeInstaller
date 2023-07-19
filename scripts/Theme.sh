@@ -13,8 +13,10 @@ EOF
 # Define the URL of the theme's Git repository
 THEME_REPO="https://github.com/NicklasVraa/Nova-galactic-theme.git"
 
+cd /Nova-galactic
+
 # Define the directory of the theme within the cloned repository
-THEME_DIR="/Nova-galactic"
+THEME_DIR="/meta"
 
 # Create a ".themes" directory in the home folder if it doesn't already exist
 mkdir -p ~/.themes
